@@ -3,8 +3,16 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.chist",
-                "paths": ["*"]
+                "appID": "6M2LRJFXGT.com.leanteamsrl.bagbnb",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "6M2LRJFXGT.com.leanteamsrl.angel",
+                "paths": [
+                    "*"
+                ]
             }
         ]
     }
