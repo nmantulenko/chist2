@@ -11,7 +11,8 @@
             {
                 "appID": "6M2LRJFXGT.com.leanteamsrl.angel",
                 "paths": [
-                    "*"
+                    "/customer/account/resetpassword",
+                    "/calendar/booking/*"
                 ]
             }
         ]
